@@ -17,7 +17,7 @@ Requirements
 To run the bash, simply run the bash. Open the terminal, go to the directory of where the file is located, and type sh random-windscribepro or ./random-windscribefree.sh
 
 # To do:
--Upload the script
--Consider using arrays instead
--Consider having a one liner to define variables
--Maybe a Linux script can be made, if Windscribe has a Windows cli.
+- Upload the script
+- Consider using arrays instead
+- Consider having a one liner to define variables
+- Maybe a Linux script can be made, if Windscribe has a Windows cli.
