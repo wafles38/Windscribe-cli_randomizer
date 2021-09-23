@@ -1,6 +1,6 @@
 # Randomization script to connect to a random location on Windscribe VPN
 
-This is a simply script that will allow you to connect to a random server on Windscribe VPN. Currently on Windscribe CLI v1.4 this is not possible without this script, you are only able to connect to a specific location or to the fastest server (best). It first selects a random country, then a random region of the country, and then it selects a random server.
+This is a simply script that will allow you to connect to a random server on Windscribe VPN. Currently on Windscribe CLI v1.4 this is not possible without this script, you are only able to connect to a specific location or to the fastest server (best). This script first selects a random country, then a random region of the country, and then it selects a random server.
 
 This app is compatible with both free accounts and paid accounts
 
