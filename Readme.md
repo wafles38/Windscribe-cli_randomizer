@@ -16,7 +16,17 @@ Requirements
 
 To run the bash, simply run the bash. Open the terminal, go to the directory of where the file is located, and type sh random-windscribepro or ./random-windscribefree.sh
 
+You can also run this script on startup on cron or Ubuntu Focal (Ubuntu 20)
+
 # Potential updates:
 - Consider deleting the leftover files
 - Consider using arrays instead
 - Consider having a one liner to define variables
+
+# Leftover files:
+You can delete these files after the script runs. Don't delete them while the script is running, it could break
+- random-windscribefree.sh.save
+- random-windscribefree.sh.save.1
+- random-windscribepro.sh.save
+- random-windscribepro.sh.save.1
+- random3659569.txt
