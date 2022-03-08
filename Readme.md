@@ -32,3 +32,5 @@ You can delete these files after the script runs. Don't delete them while the sc
 - random-windscribepro.sh.save
 - random-windscribepro.sh.save.1
 - random3659569.txt
+
+Note: This script was created before the release of the gui and it was published after the release
