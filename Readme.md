@@ -17,5 +17,6 @@ Requirements
 To run the bash, simply run the bash. Open the terminal, go to the directory of where the file is located, and type sh random-windscribepro or ./random-windscribefree.sh
 
 # Potential updates:
+- Consider deleting the leftover files
 - Consider using arrays instead
 - Consider having a one liner to define variables
