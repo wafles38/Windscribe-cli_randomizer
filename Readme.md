@@ -8,6 +8,8 @@ The script will be updated manually as more servers are added or removed from Wi
 
 Also, you may be able to tell, but I am really bad at conditionals, and programming is not my thing. If you have any suggestions and coding fixes, please let me know! I'll be happy to look at it and update it. Currently the script works perfectly as it is, it may be good for the end user but not for the programmer.
 
+You can download it here https://windscribe.com/changelog/linux_deb
+
 Requirements
 1. This will only work on Linux.
 2. You need to first log in to your windscribe account (type "Windscribe login" on the cli)
